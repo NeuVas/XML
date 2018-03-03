@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<myportfolio>
+	<mycompetencies>
+		<competency in="HTML" value="good" />
+		<competency in="CSS" value="good" />
+		<competency in="CST" value"good" />
+		<competency in="MySQL" value="normal" />
+		<competency in="bootstrap" value="normal" />
+		<competency in="CCNA" value="normal" />
+		<competency in="Python" value="low" />
+		<competency in="webflow" value="low" />
+	</mycompetencies>
+</myportfolio>
